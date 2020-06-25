@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Best Tour Guide</string>
+    <string name="button_text">FIND ON MAP</string>
+    <string name ="description">Description will be Shown here</string>
+    <string name="pokhara_itself">Pokhara </string>
+    <string name="pokhara_info">It is a beautiful place and overally it has many more beauty ehich can be explored only by walking and finding new places</string>
+    <string name="pokhara_location">geo:28.224498, 83.988782</string>
+    <string name="Places">places</string>
+    <string name="Resturant_best">Top Resturants</string>
+    <string name="Motels">Motels and Hotels</string>
+    <string name="transport">Transport and Services</string>
+
+    <string name="list_item_pic_desc">Contains list item picture</string>
+    <string name="bustand">Bus Stand</string>
+    <string name="bustand_info">Bus stand and other public vehicles are easily vialable in pokjhara being thr best spot for tourism many drivers and vehicles are found in this place.</string>
+    <string name="bustand_location">geo:28.224498, 83.988782</string>
+
+    <string name="airport">Airpot</string>
+    <string name="airpot_info">Pokhara Regional International Airport is an under construction airport in Pokhara, Gandaki Pradesh of Nepal. It is 3 km east from the existing domestic airport, at Chinnedanda. The construction of the airport started in April, 2016 and is expected to be completed after five years in 2021 with a cost of around US$305 million. The Ministry of Culture, Tourism and Civil Aviation awarded the contract to construct and develop the airport to China CAMC Engineering.[1] The airport is expected to handle one million passengers per year.</string>
+    <string name="airpot_location">geo:28.224498, 83.988782</string>
+
+    <string name="hotel1">Kings Motel</string>
+    <string name="about_hotel1">Kings Motel has a remarkabale aclities to iits costumer and solves every costumer demands quite in time and also this motel provides a remarkable view of the whole town</string>
+    <string name="location_hotel1">geo: 28.210346, 83.985435</string>
+    <string name="hotel2">Kohinoor Hotel</string>111111
+    <string name="about_hotel2">Kohinoor Hotel is a Popular Hotel in that area as it provides not a western styles of services of a Nepali or traditional value to the costumer</string>
+    <string name="location_hotel2">geo: 28.210346, 83.985435</string>
+    <string name="hotel3">Taj Hotel</string>
+    <string name="about_hotel3">A Popular choice of many costumer as it provide free wifi and delicious food enabling a night party or say a dance party to its costumer.</string>
+    <string name="location_hotel3">geo: 28.210346, 83.985435</string>
+
+    <string name="title1">Places</string>
+    <string name="title2">Restaurants</string>
+    <string name="title3">Hotels</string>
+    <string name="title4">Transport and Place</string>
+    <string name="place1">Phewa Lake</string>
+    <string name="about_place1">Phewa Lake, Phewa Tal or Fewa Lake (Nepali, [ˈpʰewa taːl]) is a freshwater lake in Nepal formerly called Baidam Tal located in the south of the Pokhara Valley that includes Pokhara city; parts of Sarangkot and Kaskikot. The lake is stream-fed but a dam regulates the water reserves, therefore, the lake is classified as semi-natural freshwater lake.[1] It is the second largest lake in Nepal; the largest in Gandaki Pradesh after the Rara lake in the comparison to Nepal's water bodies.</string>
+    <string name="location_place1">28.1017, 84.559</string>
+    <string name="place2">Begnas Tal</string>
+    <string name="about_place2">Begnas Lake is a freshwater lake in Pokhara Lekhnath Metropolis of Kaski district of Nepal[4] located in the south-east of the Pokhara Valley. The lake is the third largest lake of Nepal and second largest, after Phewa Lake, among the eight lakes in Pokhara Valley.[1][3] Water level in the lake fluctuates seasonally due to rain, and utilization for irrigation. The water level is regulated through a dam constructed in 1988 on the western outlet stream, Khudi Khola.</string>
+    <string name="location_place2">geo:28.1017, 84.559</string>
+    <string name="place3">Mahendra Cave</string>
+    <string name="about_place3">Mahendra Cave is a cave located in Pokhara-16,batulechaur, Kaski district, close to the Kali khola,[1] is the large limestone cave. It is a rare example of a cave system in Nepal containing stalagmites and stalactites.[2] The cave attracts thousands of tourists every year.[3] A statue of Hindu lord Shiva can be found inside the cave.</string>
+    <string name="location_place3">geo:28.1017, 84.559</string>
+
+
+    <string name="restaurant1">Table Resturant</string>
+    <string name="about_resturant1">As the name suggest of the resturant Table. It provides remarkable table services to its costumer.enaling the Boredom of a costumer to cease to exist.</string>
+    <string name="location_resturant1">geo:29.7564607,76.9686003</string>
+    <string name="restaurant2">Door Resturant</string>
+    <string name="about_resturant2">Door Resturant has a quite beautiful internal structure making its costumer loves the view and quality time that has been spent there.It is a popluar choice among many tourists</string>
+    <string name="location_resturant2">geo:29.7564607,76.9686003</string>
+    <string name="restaurant3">Window Resturant</string>
+    <string name="about_resturant3">Door Resturant has a quite beautiful internal structure making its costumer loves the view and quality time that has been spent there.It is a popluar choice among many tourists.</string>
+    <string name="location_resturant3">geo:29.7564607,76.9686003</string>
+</resources>
